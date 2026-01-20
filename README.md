@@ -63,7 +63,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - https://github.com/UtkarshSrivastav09/Chatbot-Using-Langchain.git
      
 7. ** Project is going live at**
-   - chatbot-using-langchain ∙ main ∙ Chatbot-Using-Langchain-main/app.py
+   - https://chatbot-using-langchaingit-zemmrtasbahcwi59wfhdvp.streamlit.app/
 
 ## API Key Usage
 This project utilizes the OpenAI GPT-3 API for generating responses. To run the chatbot with the API, you'll need to obtain an API key from OpenAI. Follow the steps below to set up your API key:
