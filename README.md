@@ -62,7 +62,7 @@ Follow these steps to install and set up the project directly from the GitHub re
 6. **Access the Project**
    - https://github.com/UtkarshSrivastav09/Chatbot-Using-Langchain.git
      
-7. ** Project is going live at**
+7.  Project is going live at
    - https://chatbot-using-langchaingit-zemmrtasbahcwi59wfhdvp.streamlit.app/
 
 ## API Key Usage
